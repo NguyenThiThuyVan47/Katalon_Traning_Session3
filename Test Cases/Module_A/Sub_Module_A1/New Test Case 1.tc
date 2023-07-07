@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>New Test Case 1</name>
+   <tag>TC0001</tag>
+   <comment></comment>
+   <testCaseGuid>51b25b86-c688-4009-a0bd-d2bd0b61e157</testCaseGuid>
+</TestCaseEntity>
